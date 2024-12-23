@@ -14,6 +14,6 @@
 		}
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl" : "https://github.com/opentibiabr/canary-launcher/releases/download/1.0.0/client-to-update.zip",
+	"newClientUrl" : "https://github.com/siignore/canary-launcher/releases/download/master/client-to-update.zip",
 	"clientExecutable": "client.exe"
 }
